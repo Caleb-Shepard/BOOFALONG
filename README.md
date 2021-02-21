@@ -1,2 +1,2 @@
-# boofalong-wild-wings
-ḄÖǾƑẮLỚṈG ẄỊŁḌ ŴĮƝĞŞ - The Valheim Save Manager and Hex Hacker
+# ḄÖǾƑẮLỚṈG
+The Valheim Save Manager and Hex Hacker
